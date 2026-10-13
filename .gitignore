@@ -1,0 +1,6 @@
+main.py
+venv/
+.venv/
+.mypy_cathe/
+__pycache__/
+*.pyc
